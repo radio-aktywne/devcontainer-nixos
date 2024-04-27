@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.8.1
+_src_path: gh:radio-aktywne/template-devcontainer
+accountname: radio-aktywne
+description: Devcontainer for NixOS configs ❄️
+devcontainername: nixos
+docs: true
+docsurl: https://radio-aktywne.github.io/devcontainer-nixos
+imagename: devcontainers/nixos
+registry: true
+releases: true
+reponame: devcontainer-nixos
+repourl: https://github.com/radio-aktywne/devcontainer-nixos
